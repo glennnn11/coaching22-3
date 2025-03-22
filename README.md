@@ -19,3 +19,5 @@ Group activity to familiarize with git
 
 # Code Contributors
 - <rger>
+- agusjuli
+- glenn
