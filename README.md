@@ -21,3 +21,4 @@ Group activity to familiarize with git
 - rger
 - agusjuli
 - glenn
+- test
